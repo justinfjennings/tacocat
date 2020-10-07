@@ -92,6 +92,80 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\aos.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\boxicons.min.css" />
+    <Content Include="Content\fonts\boxicons.svg" />
+    <Content Include="Content\fonts\remixicon.svg" />
+    <Content Include="Content\images2\bootstrapcopy.png" />
+    <Content Include="Content\images2\buildings-bw.png" />
+    <Content Include="Content\images2\dotnet.jpg" />
+    <Content Include="Content\images2\Edward_Ucinski.png" />
+    <Content Include="Content\images2\gitcopy.png" />
+    <Content Include="Content\images2\Gwen_Verhoff.png" />
+    <Content Include="Content\images2\html5.jpg" />
+    <Content Include="Content\images2\Jenna_Mueller.png" />
+    <Content Include="Content\images2\Mea_Hampton.png" />
+    <Content Include="Content\images2\network-certified.jpg" />
+    <Content Include="Content\images2\safe-shot.png" />
+    <Content Include="Content\images2\sqlcopy.png" />
+    <Content Include="Content\images2\Tony_Steele.png" />
+    <Content Include="Content\images2\xamarin.jpg" />
+    <Content Include="Content\images\about.jpg" />
+    <Content Include="Content\images\apple-touch-icon.png" />
+    <Content Include="Content\images\client-1.png" />
+    <Content Include="Content\images\client-2.png" />
+    <Content Include="Content\images\client-3.png" />
+    <Content Include="Content\images\client-4.png" />
+    <Content Include="Content\images\client-5.png" />
+    <Content Include="Content\images\client-6.png" />
+    <Content Include="Content\images\client-7.png" />
+    <Content Include="Content\images\client-8.png" />
+    <Content Include="Content\images\counts-img.jpg" />
+    <Content Include="Content\images\cta-bg.jpg" />
+    <Content Include="Content\images\favicon.png" />
+    <Content Include="Content\images\features.jpg" />
+    <Content Include="Content\images\hero-bg.jpg" />
+    <Content Include="Content\images\portfolio-1.jpg" />
+    <Content Include="Content\images\portfolio-2.jpg" />
+    <Content Include="Content\images\portfolio-3.jpg" />
+    <Content Include="Content\images\portfolio-4.jpg" />
+    <Content Include="Content\images\portfolio-5.jpg" />
+    <Content Include="Content\images\portfolio-6.jpg" />
+    <Content Include="Content\images\portfolio-7.jpg" />
+    <Content Include="Content\images\portfolio-8.jpg" />
+    <Content Include="Content\images\portfolio-9.jpg" />
+    <Content Include="Content\images\team-1.jpg" />
+    <Content Include="Content\images\team-2.jpg" />
+    <Content Include="Content\images\team-3.jpg" />
+    <Content Include="Content\images\team-4.jpg" />
+    <Content Include="Content\images\testimonials-1.jpg" />
+    <Content Include="Content\images\testimonials-2.jpg" />
+    <Content Include="Content\images\testimonials-3.jpg" />
+    <Content Include="Content\images\testimonials-4.jpg" />
+    <Content Include="Content\images\testimonials-5.jpg" />
+    <Content Include="Content\images\testimonials-bg.jpg" />
+    <Content Include="Content\owl.carousel.min.css" />
+    <Content Include="Content\remixicon.css" />
+    <Content Include="Content\style.css" />
+    <Content Include="Content\venobox.css" />
+    <Content Include="Content\venobox.min.css" />
+    <Content Include="Scripts\aos.js" />
+    <Content Include="Scripts\bootstrap.bundle.js" />
+    <Content Include="Scripts\bootstrap.bundle.min.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\counterup.min.js" />
+    <Content Include="Scripts\isotope.pkgd.min.js" />
+    <Content Include="Scripts\jquery.easing.min.js" />
+    <Content Include="Scripts\jquery.min.js" />
+    <Content Include="Scripts\jquery.waypoints.min.js" />
+    <Content Include="Scripts\main.js" />
+    <Content Include="Scripts\math.min.js" />
+    <Content Include="Scripts\owl.carousel.min.js" />
+    <Content Include="Scripts\validate.js" />
+    <Content Include="Scripts\venobox.min.js" />
+    <Content Include="TacoCat.html" />
+    <Content Include="tacocat.vbproj.user" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -124,6 +198,17 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-grid.min.css.map" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\fonts\boxicons.eot" />
+    <Content Include="Content\fonts\boxicons.ttf" />
+    <Content Include="Content\fonts\boxicons.woff" />
+    <Content Include="Content\fonts\boxicons.woff2" />
+    <Content Include="Content\fonts\icofont.woff" />
+    <Content Include="Content\fonts\icofont.woff2" />
+    <Content Include="Content\fonts\remixicon.ttf" />
+    <Content Include="Content\fonts\remixicon.woff" />
+    <Content Include="Content\fonts\remixicon.woff2" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -134,6 +219,10 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="packages.config" />
+    <Content Include="Scripts\bootstrap.bundle.js.map" />
+    <Content Include="Scripts\bootstrap.bundle.min.js.map" />
+    <Content Include="Scripts\bootstrap.js.map" />
+    <Content Include="Scripts\bootstrap.min.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
