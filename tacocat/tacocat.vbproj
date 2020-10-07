@@ -92,6 +92,7 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Code.html" />
     <Content Include="Content\aos.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\boxicons.min.css" />
@@ -146,10 +147,12 @@
     <Content Include="Content\images\testimonials-5.jpg" />
     <Content Include="Content\images\testimonials-bg.jpg" />
     <Content Include="Content\owl.carousel.min.css" />
+    <Content Include="Content\prism.css" />
     <Content Include="Content\remixicon.css" />
     <Content Include="Content\style.css" />
     <Content Include="Content\venobox.css" />
     <Content Include="Content\venobox.min.css" />
+    <Content Include="Index - Copy.html" />
     <Content Include="Scripts\aos.js" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -162,8 +165,10 @@
     <Content Include="Scripts\main.js" />
     <Content Include="Scripts\math.min.js" />
     <Content Include="Scripts\owl.carousel.min.js" />
+    <Content Include="Scripts\prism.js" />
     <Content Include="Scripts\validate.js" />
     <Content Include="Scripts\venobox.min.js" />
+    <Content Include="Solve.html" />
     <Content Include="TacoCat.html" />
     <Content Include="tacocat.vbproj.user" />
     <Content Include="Web.config" />
