@@ -152,7 +152,8 @@
     <Content Include="Content\style.css" />
     <Content Include="Content\venobox.css" />
     <Content Include="Content\venobox.min.css" />
-    <Content Include="Index - Copy.html" />
+    <Content Include="Tplt-index.html" />
+    <Content Include="index.html" />
     <Content Include="Scripts\aos.js" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
