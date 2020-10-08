@@ -82,28 +82,16 @@
                 <div class="container">
                     <div class="row">
                         <div class="col">
-                            <input type="text" id="text" />
-                            <button id="flip">Reverse it</button>
+                            <input type="text" id="input" />
+                            <button id="rbutton" onclick="forwards" class="btn btn-outline-primary">Reverse it</button>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col">
-                            <div class="row">
-                                <a>Here is the reverse:</a>
-                            </div>
-                        </div>
-                    </div>
-
                     <div class="row">
                         <p>
                             <h4>Here is the reverse</h4>
                             <span id="reversed"></span>
-                            /
-                        <p></p>
+                        </p>
                     </div>
-
-
-
                 </div>
             </div>
         </div>
@@ -121,6 +109,18 @@
     <script src="Scripts/main.js"></script>
     <script src="Scripts/validate.js"></script>
     <script src="Scripts/prism.js"></script>
+
+    <script>
+        function ReverseString(input) {
+            let reversed = input.split("").reverse().join("");
+            return reversed;
+        }
+
+        function flip() {
+            let forwards.tolowercase = document.getElementById("forwards")
+
+        }
+    </script>
 
 </body>
 
